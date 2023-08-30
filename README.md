@@ -26,3 +26,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/iagowilliam)](https://github.com/iagowilliam)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iagowilliam/)](https://www.linkedin.com/in/iagowilliam/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/iago.william/)](https://www.instagram.com/iago.william/)
+
+---
+
+Agradeço por passar pelo meu perfil! 👨‍💻🤝
